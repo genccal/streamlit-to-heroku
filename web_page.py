@@ -1,4 +1,5 @@
 import streamlit as st
+import random
 '''
 # Project Covid19 front
 '''
