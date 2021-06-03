@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run covid-19.web_page.py
+web: sh setup.sh && streamlit run covid-19/web_page.py
